@@ -1,5 +1,5 @@
 {
-    "id": "afaf366d5159ca9ae181d68485b60130",
+    "id": "3ed9de0efa12fb2f8e555d914c87d4e1",
     "name": "Getty Images",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "02024ac5ef495f88490705c613ae0e7b",
+            "id": "f45a51309e8c4d2ac6c4c5d41c3f58c8",
             "name": "Put Asset Changes Change Sets",
             "url": "httpsapi.gettyimages.com\/\/v3\/asset-changes\/change-sets",
             "description": "Generates asset changes..",
@@ -58,11 +58,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "6807fbfd8b93578844976d068c7231d3",
+            "id": "94b52895516e6cd0cf1d168c9d0f411c",
             "name": "Delete Asset Changes Change Sets Change Set",
             "url": "httpsapi.gettyimages.com\/\/v3\/asset-changes\/change-sets\/{change-set-id}",
             "description": "Confirm asset changes acknowledges receipt of asset changes..",
@@ -103,11 +103,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "4b98e3f9c0b6db3786215097674e437e",
+            "id": "19b8664c5fa023ef0fbe4116b3f1e252",
             "name": "Get Asset Changes Channels",
             "url": "httpsapi.gettyimages.com\/\/v3\/asset-changes\/channels",
             "description": "Retrieves the channel data for the partner. this data can be used to populate the channel_id parameter in the put asset changes query..",
@@ -141,11 +141,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "0335e9a420917a9bd505ca9306606606",
+            "id": "a463a425a596b3bc9061c5e8a74c933c",
             "name": "Post Asset Registrations",
             "url": "httpsapi.gettyimages.com\/\/v3\/asset-registrations",
             "description": "Register a list of customer assets..",
@@ -186,11 +186,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "3116a32211a1354228652d14b580c2d7",
+            "id": "74629725cf5d758be5ae2b00d3126244",
             "name": "Get Boards",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards",
             "description": "<b>***beta***<\/b> get all boards that the user participates in.",
@@ -252,11 +252,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "aae2840f5f9ab9a830a0e9528c3aad36",
+            "id": "ed204f45ac3f7491cc3d46c653140270",
             "name": "Post Boards",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards",
             "description": "<b>***beta***<\/b> create a new board.",
@@ -297,11 +297,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "2841a964cab3a6032d470a789a9240b1",
+            "id": "6ea53b382c98ca8cad0242552e0a2cbf",
             "name": "Delete Boards Board",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}",
             "description": "<b>***beta***<\/b> delete a board.",
@@ -342,11 +342,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "541285161ce0fd0ecdae826ebba4811d",
+            "id": "80f8ae1005f4c6b32597b8f6383f3618",
             "name": "Get Boards Board",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}",
             "description": "<b>***beta***<\/b> get assets and metadata for a specific board.",
@@ -387,11 +387,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "368735a26a287c4370639932d2a3365c",
+            "id": "0746d1fb36f21f040b264b530344c028",
             "name": "Put Boards Board",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}",
             "description": "<b>***beta***<\/b> update a board.",
@@ -439,11 +439,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "cd879bc87481961eb332f171bc016d6e",
+            "id": "60e772d28671af6f46885c47db2c8b37",
             "name": "Delete Boards Board Assets",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}\/assets",
             "description": "<b>***beta***<\/b> remove assets from a board.",
@@ -491,11 +491,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "e8b885be20e469a5f12578704945a993",
+            "id": "fbdec5acd5016311085791f7d6a13184",
             "name": "Put Boards Board Assets",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}\/assets",
             "description": "<b>***beta***<\/b> add assets to a board.",
@@ -543,11 +543,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "b869bd64e245f0fef3256ec5ff511fc8",
+            "id": "cf950805ee761de8b11d0b52c25efa29",
             "name": "Delete Boards Board Assets Asset",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}\/assets\/{asset_id}",
             "description": "<b>***beta***<\/b> remove an asset from a board.",
@@ -595,11 +595,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "5501dd192147d4fd70bfe8ac34757029",
+            "id": "45a66e20f4da2f9fd8c67db7e6cdfe0e",
             "name": "Put Boards Board Assets Asset",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}\/assets\/{asset_id}",
             "description": "<b>***beta***<\/b> add an asset to a board.",
@@ -647,11 +647,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "880a271245e90b215454b9a0f16c2cbc",
+            "id": "c9f287007391ed1b28bcc290d4aa6ec8",
             "name": "Get Boards Board Comments",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}\/comments",
             "description": "<b>***beta***<\/b> get comments from a board.",
@@ -692,11 +692,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "1185098cfe0562e253497295e4dfc2fd",
+            "id": "80628e8f5b9ab0aecc5591914b51b470",
             "name": "Post Boards Board Comments",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}\/comments",
             "description": "<b>***beta***<\/b> add a comment to a board.",
@@ -744,11 +744,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "8802b2469d4ccc7f26547f4e1b80aea6",
+            "id": "f2521c982a0027147055399bbf34e4ab",
             "name": "Delete Boards Board Comments Comment",
             "url": "httpsapi.gettyimages.com\/\/v3\/boards\/{board_id}\/comments\/{comment_id}",
             "description": "<b>***beta***<\/b> delete a comment from a board.",
@@ -796,11 +796,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "7aec72426d6eef7770586eecaeb739ca",
+            "id": "4663d1eb1c6c721d8e93a4268d0025d4",
             "name": "Get Collections",
             "url": "httpsapi.gettyimages.com\/\/v3\/collections",
             "description": "Gets collections applicable for the customer..",
@@ -834,11 +834,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "3ea43eac603be6f33080f940e8f890b8",
+            "id": "db1c1b105e4e9c744336fb29cd3bacf9",
             "name": "Get Countries",
             "url": "httpsapi.gettyimages.com\/\/v3\/countries",
             "description": "Gets countries codes and names..",
@@ -872,11 +872,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "7911c737583fcd95f1a0dd80a4f7d6db",
+            "id": "00e791f1f623f5d9b1209fd5ab20d23c",
             "name": "Get Downloads",
             "url": "httpsapi.gettyimages.com\/\/v3\/downloads",
             "description": "Returns information about a customer's downloaded assets..",
@@ -945,11 +945,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "d50fe0d4c0b71f50a99bdc25263dbf26",
+            "id": "4a40e67ff668e7e7b7d4aabc8c03920b",
             "name": "Post Downloads Images",
             "url": "httpsapi.gettyimages.com\/\/v3\/downloads\/images\/{id}",
             "description": "Download an image.",
@@ -1025,11 +1025,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "a4d6a9dc336acb8fef047d8f98272539",
+            "id": "29e42ff64101ea592cd46f7ede17af4e",
             "name": "Post Downloads Veos",
             "url": "httpsapi.gettyimages.com\/\/v3\/downloads\/videos\/{id}",
             "description": "Download a video.",
@@ -1084,11 +1084,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "d19fd38919024e7a6382abd7de649b7d",
+            "id": "08863b0fcd72cb80ba93d4e19f164904",
             "name": "Post Downloads",
             "url": "httpsapi.gettyimages.com\/\/v3\/downloads\/{id}",
             "description": "Download an image.",
@@ -1164,11 +1164,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "40af654993e82e2407ac11af15b2ee9c",
+            "id": "c61d62be77d4e8c6fb02de9d93309d9d",
             "name": "Get Events",
             "url": "httpsapi.gettyimages.com\/\/v3\/events",
             "description": "Get metadata for multiple events.",
@@ -1216,11 +1216,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "6c266d87927fa3cc9e24c8e96e173be5",
+            "id": "7a55b8e90849d90701ffcfcd925284be",
             "name": "Get Events",
             "url": "httpsapi.gettyimages.com\/\/v3\/events\/{id}",
             "description": "Get metadata for a single event.",
@@ -1268,11 +1268,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "64b818c0bd0bd3e8a8c119acd0d56a2f",
+            "id": "b90d9eff3761374406dcc6f164cb3cea",
             "name": "Get Images",
             "url": "httpsapi.gettyimages.com\/\/v3\/images",
             "description": "Get metadata for multiple images by supplying multiple image ids.",
@@ -1320,11 +1320,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "f381c62020315b1a3c6215479efbcb54",
+            "id": "49a219303065824eb1eeabff400bec28",
             "name": "Get Images",
             "url": "httpsapi.gettyimages.com\/\/v3\/images\/{id}",
             "description": "Get metadata for a single image by supplying one image id.",
@@ -1372,11 +1372,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "b2c5d0877fade48fbf3e6bc33c116941",
+            "id": "cc22cafe12278be493c381fe8ee26911",
             "name": "Get Images Similar",
             "url": "httpsapi.gettyimages.com\/\/v3\/images\/{id}\/similar",
             "description": "Search for images similar to an image.",
@@ -1438,11 +1438,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "69706a8d053bbae77aeee036f3df27ca",
+            "id": "94ae4863f2fec1cc2009242f22f1edd9",
             "name": "Get Products",
             "url": "httpsapi.gettyimages.com\/\/v3\/products",
             "description": "Get products.",
@@ -1483,11 +1483,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "815fc1de18adaa0347a13ded64ee3a4c",
+            "id": "c1af691cdb890e7b56c69b802de0a5ab",
             "name": "Get Purchased Assets",
             "url": "httpsapi.gettyimages.com\/\/v3\/purchased-assets",
             "description": "Get previously purchased images and video.",
@@ -1542,11 +1542,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "40ec1398aa38e09bed75186d2d3041bc",
+            "id": "caac53b09575e8f552fb7ceffbcd0152",
             "name": "Get Purchased Images",
             "url": "httpsapi.gettyimages.com\/\/v3\/purchased-images",
             "description": "Get previously purchased images.",
@@ -1601,11 +1601,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "4e0beab66b18d1678cd2af2a8afea72b",
+            "id": "62ac8187945d1a2f70838335cc739bbc",
             "name": "Get Search Events",
             "url": "httpsapi.gettyimages.com\/\/v3\/search\/events",
             "description": "Search for events.",
@@ -1688,11 +1688,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "c8ee36d86c74e1baf5836e5247dd9a51",
+            "id": "75c8a01f7002c476da15f05e427f96f0",
             "name": "Get Search Images",
             "url": "httpsapi.gettyimages.com\/\/v3\/search\/images",
             "description": "Search for both creative and editorial images.",
@@ -1901,11 +1901,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "0abd3787cc672afbf3a3b95b0afad230",
+            "id": "fe16917cc4b11245b8e0fd5805043276",
             "name": "Get Search Images Creative",
             "url": "httpsapi.gettyimages.com\/\/v3\/search\/images\/creative",
             "description": "Search for creative images only.",
@@ -2100,11 +2100,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "53d24162ce80f97a424afbeae7875f1d",
+            "id": "93f2fd71360e9765abae20645494aece",
             "name": "Get Search Images Editorial",
             "url": "httpsapi.gettyimages.com\/\/v3\/search\/images\/editorial",
             "description": "Search for editorial images only.",
@@ -2327,11 +2327,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "5619c0aa294eb4041214d4f63942bf40",
+            "id": "90da76e5453352cc4b27af48425a72cc",
             "name": "Get Search Veos",
             "url": "httpsapi.gettyimages.com\/\/v3\/search\/videos",
             "description": "Search for both creative and editorial videos.",
@@ -2463,11 +2463,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "79a9f46f73ad0122a9f35e790d48f419",
+            "id": "47e983c92aa319f97afd7b9262c154c1",
             "name": "Get Search Veos Creative",
             "url": "httpsapi.gettyimages.com\/\/v3\/search\/videos\/creative",
             "description": "Search for creative videos.",
@@ -2592,11 +2592,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "cbf82a6c6e88cefdac00c7928e5c2c24",
+            "id": "df64fdee2f2c458bc25b20f609108bec",
             "name": "Get Search Veos Editorial",
             "url": "httpsapi.gettyimages.com\/\/v3\/search\/videos\/editorial",
             "description": "Search for editorial videos.",
@@ -2728,11 +2728,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "25e10bc84be97bfb8a45383122d89f63",
+            "id": "721aa12a632c77ce37650c9761912147",
             "name": "Put Usage Batches",
             "url": "httpsapi.gettyimages.com\/\/v3\/usage-batches\/{id}",
             "description": "Report usage of assets via a batch format..",
@@ -2780,11 +2780,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "3ba621ce7d8956e7b6846169754e09d6",
+            "id": "2de297a644555875bfc8beff8d735539",
             "name": "Get Veos",
             "url": "httpsapi.gettyimages.com\/\/v3\/videos",
             "description": "Get metadata for multiple videos by supplying multiple video ids.",
@@ -2832,11 +2832,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         },
         {
-            "id": "1575280c9d65d6ed33e625178fe1b486",
+            "id": "dfc026fd10eb85da19175fd47131fcc8",
             "name": "Get Veos",
             "url": "httpsapi.gettyimages.com\/\/v3\/videos\/{id}",
             "description": "Get metadata for a single video by supplying one video id.",
@@ -2884,7 +2884,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "afaf366d5159ca9ae181d68485b60130",
+            "collectionId": "3ed9de0efa12fb2f8e555d914c87d4e1",
             "rawModeData": ""
         }
     ]
